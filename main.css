@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --font-primaria:"Pacifico", sans-serif;
+}
+
+main{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(13,0,255,1) 21%, rgba(255,255,255,1) 52%, rgba(255,255,255,1) 100%);
+}
